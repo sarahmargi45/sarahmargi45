@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Sarah and this is my first attempt at creating my own repository with README.md
 
 <!--
 **sarahmargi45/sarahmargi45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
